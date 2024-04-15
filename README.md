@@ -18,6 +18,8 @@ eigval,eigvect=np.linalg.eig(matrix)
 print("Eigen values are",eigval,"and Eigen Vectors are",eigvect)
 ```
 ## Output:
+![image](https://github.com/Kathiresan-23013376/EIGENVALUES-AND-EIGENVECTORS/assets/150008375/8acfae95-7518-45cb-9036-b71285ab42fb)
+
 ![image](https://github.com/Kathiresan-23013376/EIGENVALUES-AND-EIGENVECTORS/assets/150008375/5de71a1c-beea-4398-ac75-ed0d2d54f597)
 
 ## Result:
